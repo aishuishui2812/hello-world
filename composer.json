@@ -1,0 +1,12 @@
+{
+    "name" : "aishuishui2812/hello-world",
+    "author" : [
+      {
+        "name": "weiyang Zhang",
+        "email": "tooYoungTooXin@gmail.com"
+      } 
+    ],
+    "require" : {
+        "monolog/monolog": "1.0.*"
+    }
+}
